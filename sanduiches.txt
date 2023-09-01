@@ -1,0 +1,6 @@
+xbacon: R$11.5
+xcalabresa: R$9
+xfile: R$15
+xfrango: R$10
+xtudo: R$12
+xduplo: R$19

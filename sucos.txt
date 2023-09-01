@@ -1,0 +1,6 @@
+abacaxi: R$2.5
+acerola: R$2.5
+laranja: R$3
+limao: R$2.5
+tangerina: R$2.5
+uva: R$2.5
