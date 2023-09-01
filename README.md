@@ -8,4 +8,4 @@
    	Os itens do cardápio são armazenados em map's, cada alteração sofrida conforme comando do usuário primeiro é modificado dentro do map e depois repassado para o arquivo txt para manter o programa atualizado.
 	A interface de cliente possui um map próprio para a realização dos pedidos, este conforme digitado pelo usuário é repassado para uma variável que posteriormente será cadastrada como chave do map que recebe o valor do map correspondente de mesma chave.
  	Em todas as funções que envolvem alterações no carrinho e mudança no cardápio os map's são passados por referência para que as modificações feitas dentro das funções possuam validade em todo o programa e para não precisar retornar de volta para o mesmo map.
-  	Todo o programa conta com textos de saída para ajudar o usuário a navegar e entender corretamente o mesmo.
+  	Todo o programa conta com textos de saída para ajudar o usuário a navegar e entender corretamente o mesmo.# Projeto-LP1-Lanchonete
